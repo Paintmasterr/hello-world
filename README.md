@@ -2,8 +2,8 @@
 TextEditor with SpeechRecognition and Text to Speech features
 
 ## Logo
-<img src= "Images1/notepad.ico width="100" height= "20">
-![](Images1/notepad.ico 100*20)
+<img src= "Images1/notepad.ico width="100" height="20">
+![](Images1/notepad.ico)
 
 ## Done by
 Bolot Zhusubpekov\
