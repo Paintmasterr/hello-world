@@ -1,8 +1,8 @@
-## super-notepad
+# super-notepad
 TextEditor with SpeechRecognition and Text to Speech features
 
 ## Logo
-![](Images1/notepad.ico)
+![](Images1/notepad.ico 100x20)
 
 ## Done by
 Bolot Zhusubpekov\
@@ -24,4 +24,6 @@ pip install SpeechRecognition
 ```
 pip install gTTS
 ```
- 
+## Usage
+
+1.Download logo to your folder
