@@ -2,7 +2,7 @@
 First repository in github
 
 ## Logo
-![](Images1/2020-12-16_17-04-57.png)
+![](Images1/notepad.ico)
 
 ## Done by
 Bolot Zhusubpekov
