@@ -1,11 +1,11 @@
-# hello-world
-First repository in github
+## super-notepad
+TextEditor with SpeechRecognition and Text to Speech features
 
 ## Logo
 ![](Images1/notepad.ico)
 
 ## Done by
-Bolot Zhusubpekov
+Bolot Zhusubpekov\
 Kalmyrza Zholchubekov
 
 ## Installation
