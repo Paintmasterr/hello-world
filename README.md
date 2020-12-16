@@ -7,7 +7,7 @@ First repository in github
 "Creative Commons licensed"
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+In the terminal use the package manager [pip](https://pip.pypa.io/en/stable/) to install modules.
 
 ```bash
 pip install pipwin
@@ -17,4 +17,7 @@ pipwin install pyaudio
 ```
 ```bash
 pip install SpeechRecognition
+```
+```
+pip install gTTS
 ```
