@@ -1,11 +1,6 @@
 # super-notepad
-TextEditor with SpeechRecognition and Text to Speech features
-
-## Logo
-
-<img src="Images1/notepad.ico width="100" height="20">
-
-![](Images1/notepad.ico)
+TextEditor program with SpeechRecognition, Text to Speech features\
+and other features
 
 ## Done by
 Bolot Zhusubpekov\
@@ -37,4 +32,4 @@ pip install gTTS
 
 2. After running should appear texteditor window
 
-![](Images1/2020-12-16_17-06-15.png)
+![](Images1/2020-12-16_17-04-57.png)
