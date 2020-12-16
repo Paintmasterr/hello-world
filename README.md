@@ -2,7 +2,7 @@
 First repository in github
 
 ## Logo
-![](images1/2020-12-16_17-04-57.png)
+![](Images1/2020-12-16_17-04-57.png)
 
 ## Done by
 Bolot Zhusubpekov
