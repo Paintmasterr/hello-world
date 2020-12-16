@@ -2,7 +2,9 @@
 TextEditor with SpeechRecognition and Text to Speech features
 
 ## Logo
-<img src= "Images1/notepad.ico width="100" height="20">
+
+<img src="Images1/notepad.ico width="100" height="20">
+
 ![](Images1/notepad.ico)
 
 ## Done by
@@ -27,4 +29,12 @@ pip install gTTS
 ```
 ## Usage
 
-1.Download logo to your folder
+1.Download logo and audiofile to your folder
+
+![](Images1/notepad.ico)
+
+[audio](T22S.wav)\
+
+2. After running should appear texteditor window
+
+![](Images1/2020-12-16_17-06-15.png)
