@@ -9,3 +9,12 @@ First repository in github
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
+```bash
+pip install pipwin
+```
+```bash
+pipwin install pyaudio
+```
+```bash
+pip install SpeechRecognition
+```
