@@ -1,6 +1,9 @@
 # hello-world
 First repository in github
 
+## Logo
+![](images1/notepad.ico)
+
 ## Done by
 Bolot Zhusubpekov
 Kalmyrza Zholchubekov
