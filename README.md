@@ -2,7 +2,7 @@
 TextEditor with SpeechRecognition and Text to Speech features
 
 ## Logo
-![](Images1/notepad.ico 100x20)
+![](Images1/notepad.ico 100*20)
 
 ## Done by
 Bolot Zhusubpekov\
